@@ -1,0 +1,22 @@
+{
+  "name": "chat_app_backend",
+  "version": "0.0.1",
+  "description": "One time view secure chat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MatthewTeta/chat_app_backend.git"
+  },
+  "author": "Matthew Teta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatthewTeta/chat_app_backend/issues"
+  },
+  "homepage": "https://github.com/MatthewTeta/chat_app_backend",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
